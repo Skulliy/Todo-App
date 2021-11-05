@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Lecture control",
+      "day": "May 4th at 4pm",
+      "reminder": false
+    },
+    {
+      "id": 2,
+      "text": "lecture angular",
+      "day": "may 5th at 7pm",
+      "reminder": false
+    },
+    {
+      "text": "Angular Deadline",
+      "day": "FRI 5/11 at 12am",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
